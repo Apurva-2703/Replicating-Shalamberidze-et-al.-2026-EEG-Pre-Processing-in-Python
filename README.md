@@ -1,6 +1,6 @@
 # Replicating-Shalamberidze-et-al.-2026-EEG-Pre-Processing-in-Python
 
-This project is a translation of a 10-step MATLAB/EEGLAB pre-processing pipeline into **MNE-Python**. 
+This project is a translation of a 12-step MATLAB/EEGLAB pre-processing pipeline into **MNE-Python**. 
 
 The workflow is based on the methodology used in the study: *Resting-State EEG and Trait Anxiety* (Shalamberidze et al., 2026).
 
